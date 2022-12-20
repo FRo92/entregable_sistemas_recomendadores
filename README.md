@@ -18,10 +18,13 @@ El sesgo se puede clasificar en tres principales tipos:
 * Sesgo Cognitivo:  Patrón sistmático de desviación de la norma o racionalidad en un juicio.
 
 ¿Cómo medir, estudiar y prevenir el sesgo en sistemas recomendadores?
+
 Los lineamientos para esto se rigen por la sigla FAT: Fairness (propiedad de ser justo o equitativo), Accountability (propiedad de poder ser explicable o justificar decisiones, XAI) y Transparency (los factores que influencianlas decisiones hechas por los modelos deben ser visibles para los usuarios)
 
-Existen varios intentos por intentar explicar los modelos de machine learning, uno de los métodos más útiles y usados es el de feature importance, pero si profundizamos un poco los métodos pasando a deep learning o sistemas recomendadores con vectores latentes ya no es posible identiicar claramente el peso de cada feature, las representaciones visuales vienen, en parte, a tratar de remediar esta situación:
+Existen varios intentos por intentar explicar los modelos de machine learning, uno de los métodos más útiles y usados está basado en la feature importance (por ejemplo [shap](https://shap.readthedocs.io/en/latest/)), pero si profundizamos un poco los métodos pasando a deep learning o sistemas recomendadores con vectores latentes ya no es posible identiicar claramente el peso de cada feature, las representaciones visuales vienen, en parte, a tratar de remediar esta situación ya que pueden desempeñar un papel importante en los sistemas de recomendación, ayudando a los usuarios a entender mejor cómo funciona el sistema y a interactuar con él de manera más efectiva
 
 
 ## Clase 8 - Interactive and conversational recommender systems ##
+
+## Clase 9 - Dominios de aplicación e investigación reciente ##
 
