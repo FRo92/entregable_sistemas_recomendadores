@@ -23,8 +23,11 @@ Los lineamientos para esto se rigen por la sigla FAT: Fairness (propiedad de ser
 
 Existen varios intentos por intentar explicar los modelos de machine learning, uno de los métodos más útiles y usados está basado en la feature importance (por ejemplo [shap](https://shap.readthedocs.io/en/latest/)), pero si profundizamos un poco los métodos pasando a deep learning o sistemas recomendadores con vectores latentes ya no es posible identiicar claramente el peso de cada feature, las representaciones visuales vienen, en parte, a tratar de remediar esta situación ya que pueden desempeñar un papel importante en los sistemas de recomendación, ayudando a los usuarios a entender mejor cómo funciona el sistema, a interactuar con él de manera más efectiva y dar luces sobre posibles sesgos en los resultados del modelo.
 
+Un caso curioso es el esparcimiento de fake news, ya que, dado el sesgo de confirmación, cada usuario tiende a compartir noticias o videos recomendados en RRSS que apoyen o sean afines a su ideología o perspectivas en torno a alguna problemática. Esto favorece el esparcimiento de noticias falsas como una reacción en cadena, y desde el deep learning se trabajó en un [modelo de grafo](https://paperswithcode.com/paper/user-preference-aware-fake-news-detection) que pretende detectar este tipo de comportamiento ayudandose en la estructura de grafo, características del usuario e historial de post e interacciones del mismo. Finalmente se pudo llegar a un modelo capaz de predecir con una alta precisión y valor-f (~97% ambas) aquellas noticias que son falsas.
 
 ## Clase 8 - Interactive and conversational recommender systems ##
+
+Los sistemas de recomendación conversacionales son aquellos que utilizan el lenguaje natural para interactuar con los usuarios y brindar recomendaciones personalizadas refinada a través de las críticas. Estos sistemas se basan en la idea de que el lenguaje natural es una forma más natural y cómoda para que los usuarios expresen sus preferencias y necesidades, y para que el sistema pueda brindar recomendaciones de manera más precisa y relevante.
 
 ## Clase 9 - Dominios de aplicación e investigación reciente ##
 
