@@ -36,5 +36,6 @@ Existen principalmente tres tipos de sistemas:
 
 Los sistemas recomendadores conversacionales abren una gran oportunidad en el dominio de costumer care, por ejemplo, la empresa de tecnología https://www.liveperson.com/ ha anunciado la incorporación de IA conversacional tanto de texto como de voz ([Curiosly Human](https://www.liveperson.com/blog/curiously-human-conversational-ai/)) para mejorar las soluciones de interacción con clientes aprovechando las casi mil millones de interacciones al mes de la compañía, con el foco de creación de valor al tiempo que se reducen los costos de la atención tradicional.
 
+Esto presenta una gran oportunidad de mejora en para la realidad local, puesto que constantemente se promueve la compra omnicanal, principalmente por medio de aplicaciones móviles o por la web, sin embargo, el proceso de post compra sigue fuertemente dependiente de capacidades físicas de equipos de teleperformance muy reducidos y horarios de atención acotados, servicio poco coherente con las facilidades de compra, así, soluciones basadas en tecnología abren la oportunidad de mejora de experiencia de cliente, disminuyendo las fricciones post compra especialmente en retail.
 ## Clase 9 - Dominios de aplicación e investigación reciente ##
 
