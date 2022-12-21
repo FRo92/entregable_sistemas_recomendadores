@@ -27,7 +27,14 @@ Un caso curioso es el esparcimiento de fake news, ya que, dado el sesgo de confi
 
 ## Clase 8 - Interactive and conversational recommender systems ##
 
-Los sistemas de recomendación conversacionales son aquellos que utilizan el lenguaje natural para interactuar con los usuarios y brindar recomendaciones personalizadas refinada a través de las críticas. Estos sistemas se basan en la idea de que el lenguaje natural es una forma más natural y cómoda para que los usuarios expresen sus preferencias y necesidades, y para que el sistema pueda brindar recomendaciones de manera más precisa y relevante.
+En esta clase vimos que los sistemas de recomendación conversacionales son aquellos que utilizan el lenguaje natural para interactuar con los usuarios y brindar recomendaciones personalizadas refinada a través de las críticas, donde el principal desafío es poder representar los diálogos y las preferencias del usuario. Estos sistemas se basan en la idea de que el lenguaje natural es una forma más natural y cómoda para que los usuarios expresen sus preferencias y necesidades, y para que el sistema pueda brindar recomendaciones de manera más precisa y relevante.
+
+Existen principalmente tres tipos de sistemas:
+* 1) Sistema Activo, Usuario Pasivo (SAUP) donde el sistema pregunta y el usuario responde, funciona como un árbol de decisión para generar la recomendación.
+* 2) Sistema Activo, Usuario Participativo (SAUE) donde el usuario pregunta y chatea, mientras que el sistema chatea y responde.
+* 3) Sistema Activo, Usuario Activo (SAUA) donde el sistema pregunta y el usuario chatea y pregunta.
+
+Los sistemas recomendadores conversacionales abren una gran oportunidad en el dominio de costumer care, por ejemplo, la empresa de tecnología https://www.liveperson.com/ ha anunciado la incorporación de IA conversacional tanto de texto como de voz ([Curiosly Human](https://www.liveperson.com/blog/curiously-human-conversational-ai/)) para mejorar las soluciones de interacción con clientes aprovechando las casi mil millones de interacciones al mes de la compañía, con el foco de creación de valor al tiempo que se reducen los costos de la atención tradicional.
 
 ## Clase 9 - Dominios de aplicación e investigación reciente ##
 
