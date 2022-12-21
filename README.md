@@ -37,5 +37,30 @@ Existen principalmente tres tipos de sistemas:
 Los sistemas recomendadores conversacionales abren una gran oportunidad en el dominio de costumer care, por ejemplo, la empresa de tecnología https://www.liveperson.com/ ha anunciado la incorporación de IA conversacional tanto de texto como de voz ([Curiosly Human](https://www.liveperson.com/blog/curiously-human-conversational-ai/)) para mejorar las soluciones de interacción con clientes aprovechando las casi mil millones de interacciones al mes de la compañía, con el foco de creación de valor al tiempo que se reducen los costos de la atención tradicional.
 
 Esto presenta una gran oportunidad de mejora en para la realidad local, puesto que constantemente se promueve la compra omnicanal, principalmente por medio de aplicaciones móviles o por la web, sin embargo, el proceso de post compra sigue fuertemente dependiente de capacidades físicas de equipos de teleperformance muy reducidos y horarios de atención acotados, servicio poco coherente con las facilidades de compra, así, soluciones basadas en tecnología abren la oportunidad de mejora de experiencia de cliente, disminuyendo las fricciones post compra especialmente en retail.
+
 ## Clase 9 - Dominios de aplicación e investigación reciente ##
+
+En esta clase vimos un resumen de los contenidos revisados a lo largo del curso:
+* Filtrado colaborativo 
+* Filtrado basado en contenido
+* Métodos latentes
+* Usos de DL en sistemas recomendadores
+
+Y algunos problemas:
+* Filtros Burbuja (falta de exposición a contenido diverso)
+* La inteligencia de la IA (no es tan inteligente para las tareas humanas que son simples)
+* Falta de control y transparencia para el usuario
+* ¿Son las recomendaciones justas? (FAT)
+* Métricas usadas para entrenar y evaluar 
+* Interactividad y múltiples fuentes de datos
+* Reproducibilidad de resultados
+* Conductismo (aprendiendo a partir sólo de conducta de usuario)
+* No están hechos para usuarios no tradicionales
+* Privacidad
+
+Además se revisó el uso de GNN para recomendación, ya que pueden procesar y analizar datos relacionales de manera efectiva. Por ejemplo, si se tiene un conjunto de datos de usuarios y productos que han sido comprados juntos, una GNN podría utilizar esa información para hacer recomendaciones a los usuarios basadas en lo que han comprado otros con intereses similares. Las GNN también pueden utilizar información sobre las relaciones entre los nodos para hacer recomendaciones más precisas y personalizadas, este tipo de redes es especialmente aplicables en estructuras de datos del tipo RRSS.
+
+Por ejemplo, [LinkedIn utiliza las GNN](https://venturebeat.com/ai/linkedin-and-intel-tech-leaders-on-the-state-of-ai/) para hacer recomendaciones en redes sociales y comprender las relaciones entre las habilidades de las personas, intereses y sus puestos de trabajo, en particular, ha creado un proceso que denomina estrategia de muestreo adaptativo al rendimiento (PASS). Esta estrategia utiliza la IA para seleccionar a los vecinos más relevantes en los gráficos basado en sus atributos, mejorando así la precisión de la recomendación. 
+
+También puede ayudar a detectar si uno de estos vecinos es en realidad un bot o una cuenta falsa determinando la autenticidad de sus conexiones. Este modelo adaptativo aprende a seleccionar vecinos que aumentan su precisión.
 
